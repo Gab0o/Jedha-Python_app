@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/Users/Gab00/Github/Jedha/S18.API_Developement_avec_Flask/Flask.102_API-Movies-Predictions/.conda102/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}

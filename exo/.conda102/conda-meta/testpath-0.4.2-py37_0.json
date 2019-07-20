@@ -1,0 +1,180 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/Gab00/anaconda3/pkgs/testpath-0.4.2-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/testpath-0.4.2.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/testpath-0.4.2.dist-info/LICENSE",
+    "lib/python3.7/site-packages/testpath-0.4.2.dist-info/METADATA",
+    "lib/python3.7/site-packages/testpath-0.4.2.dist-info/RECORD",
+    "lib/python3.7/site-packages/testpath-0.4.2.dist-info/WHEEL",
+    "lib/python3.7/site-packages/testpath-0.4.2.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/testpath/__init__.py",
+    "lib/python3.7/site-packages/testpath/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/testpath/__pycache__/asserts.cpython-37.pyc",
+    "lib/python3.7/site-packages/testpath/__pycache__/commands.cpython-37.pyc",
+    "lib/python3.7/site-packages/testpath/__pycache__/env.cpython-37.pyc",
+    "lib/python3.7/site-packages/testpath/__pycache__/tempdir.cpython-37.pyc",
+    "lib/python3.7/site-packages/testpath/asserts.py",
+    "lib/python3.7/site-packages/testpath/cli-32.exe",
+    "lib/python3.7/site-packages/testpath/cli-64.exe",
+    "lib/python3.7/site-packages/testpath/commands.py",
+    "lib/python3.7/site-packages/testpath/env.py",
+    "lib/python3.7/site-packages/testpath/tempdir.py"
+  ],
+  "fn": "testpath-0.4.2-py37_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/Gab00/anaconda3/pkgs/testpath-0.4.2-py37_0",
+    "type": 1
+  },
+  "md5": "cf2ac1c7763209862520beb95ff51858",
+  "name": "testpath",
+  "package_tarball_full_path": "/Users/Gab00/anaconda3/pkgs/testpath-0.4.2-py37_0",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/testpath-0.4.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath-0.4.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "95f7c73530d13d9fe14e59b8bbd2eb4901aab79e119e336cd937f495cce6fc36",
+        "sha256_in_prefix": "95f7c73530d13d9fe14e59b8bbd2eb4901aab79e119e336cd937f495cce6fc36",
+        "size_in_bytes": 1528
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath-0.4.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f70f106f86021f8f7c5ecd0963a4fad91fdc95c2c52bb79f33198620408080ed",
+        "sha256_in_prefix": "f70f106f86021f8f7c5ecd0963a4fad91fdc95c2c52bb79f33198620408080ed",
+        "size_in_bytes": 374
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath-0.4.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "cd3d546fa11884d3ff06b80b5b2b09ff31018067b4fcbc6a770dbf697017f688",
+        "sha256_in_prefix": "cd3d546fa11884d3ff06b80b5b2b09ff31018067b4fcbc6a770dbf697017f688",
+        "size_in_bytes": 1254
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath-0.4.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "74cde2fa00c4a8a6e47757bffa26033f38bbfe1185d797335c4800b9e20cd79b",
+        "sha256_in_prefix": "74cde2fa00c4a8a6e47757bffa26033f38bbfe1185d797335c4800b9e20cd79b",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath-0.4.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "a846e1158baa3fa0a3e75abdabc9101f8050862cab304aa8509a9b5816639da7",
+        "sha256_in_prefix": "a846e1158baa3fa0a3e75abdabc9101f8050862cab304aa8509a9b5816639da7",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "64ad45b02782c360956ef262af012037ad5f718e78c4e1e0c3b419b8c5862e7a",
+        "sha256_in_prefix": "64ad45b02782c360956ef262af012037ad5f718e78c4e1e0c3b419b8c5862e7a",
+        "size_in_bytes": 220
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "40936c1cc963e3cb1cd371f57e6836358ed7eaf92e19018714bb03b78e43bee3",
+        "sha256_in_prefix": "40936c1cc963e3cb1cd371f57e6836358ed7eaf92e19018714bb03b78e43bee3",
+        "size_in_bytes": 416
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/__pycache__/asserts.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "888c228359de4077aa3a58a110e7f2c5eaf1b877beb9d9feb1e5ea51902fedd2",
+        "sha256_in_prefix": "888c228359de4077aa3a58a110e7f2c5eaf1b877beb9d9feb1e5ea51902fedd2",
+        "size_in_bytes": 6193
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/__pycache__/commands.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "0e92a80f685fbc3c94b8a9de6c6e5d1d8894b9996a70cef15d543575ac392452",
+        "sha256_in_prefix": "0e92a80f685fbc3c94b8a9de6c6e5d1d8894b9996a70cef15d543575ac392452",
+        "size_in_bytes": 5131
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/__pycache__/env.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "acd4f58f4401425ca09cdbec08d9305eb083188108225359de29d8dae9197568",
+        "sha256_in_prefix": "acd4f58f4401425ca09cdbec08d9305eb083188108225359de29d8dae9197568",
+        "size_in_bytes": 2520
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/__pycache__/tempdir.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "798ab878fbd8f1451df62867cef3305d236edd6d8690dca401b9f661e2b81798",
+        "sha256_in_prefix": "798ab878fbd8f1451df62867cef3305d236edd6d8690dca401b9f661e2b81798",
+        "size_in_bytes": 5280
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/asserts.py",
+        "path_type": "hardlink",
+        "sha256": "52ff7f33277619b4849d576cf6a1d8c6cc06d90ee3e8cf8b9a90e6d90e135d35",
+        "sha256_in_prefix": "52ff7f33277619b4849d576cf6a1d8c6cc06d90ee3e8cf8b9a90e6d90e135d35",
+        "size_in_bytes": 6679
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/cli-32.exe",
+        "path_type": "hardlink",
+        "sha256": "75f12ea2f30d9c0d872dade345f30f562e6d93847b6a509ba53beec6d0b2c346",
+        "sha256_in_prefix": "75f12ea2f30d9c0d872dade345f30f562e6d93847b6a509ba53beec6d0b2c346",
+        "size_in_bytes": 65536
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/cli-64.exe",
+        "path_type": "hardlink",
+        "sha256": "28b001bb9a72ae7a24242bfab248d767a1ac5dec981c672a3944f7a072375e9a",
+        "sha256_in_prefix": "28b001bb9a72ae7a24242bfab248d767a1ac5dec981c672a3944f7a072375e9a",
+        "size_in_bytes": 74752
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/commands.py",
+        "path_type": "hardlink",
+        "sha256": "e0a2f0c380a20ca0fc80cdab7c9bdbc9bd50dc4085a6864f8b8a19645212d10a",
+        "sha256_in_prefix": "e0a2f0c380a20ca0fc80cdab7c9bdbc9bd50dc4085a6864f8b8a19645212d10a",
+        "size_in_bytes": 4873
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/env.py",
+        "path_type": "hardlink",
+        "sha256": "c287366d423057dd3c21dd356a8a239b0f4ee9f88b694d2159ec7a7f459c6c08",
+        "sha256_in_prefix": "c287366d423057dd3c21dd356a8a239b0f4ee9f88b694d2159ec7a7f459c6c08",
+        "size_in_bytes": 2370
+      },
+      {
+        "_path": "lib/python3.7/site-packages/testpath/tempdir.py",
+        "path_type": "hardlink",
+        "sha256": "e2a99f77d874159f1c37d5e89efcaf01f7f95a373f21df3e62b420e099cfe07d",
+        "sha256_in_prefix": "e2a99f77d874159f1c37d5e89efcaf01f7f95a373f21df3e62b420e099cfe07d",
+        "size_in_bytes": 5246
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "070e07144d3ad6206006c41b2c77f7f950474a64229472b8b2ef4c630239211f",
+  "size": 93346,
+  "subdir": "osx-64",
+  "timestamp": 1538864358273,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/testpath-0.4.2-py37_0.tar.bz2",
+  "version": "0.4.2"
+}
